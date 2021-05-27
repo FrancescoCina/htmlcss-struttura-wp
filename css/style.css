@@ -7,16 +7,35 @@
 }
 body{
     max-width: 1200px;
-    height: 100%;
+    height: 800px;
     margin: 0 auto;   
+}
+ .container{     
+    width: 80%;
+    height: 100%;
+    margin: 0 auto;
+ }
+
+.lightblue{
+
+    background-color: lightblue;
 }
 
 
-/* Header */
+    /* Header */
 
 .pink{
-    width: 80%;
-    height: 80px;
+    width: 100%;
+    height: 10%;
     background-color: fuchsia;
     margin: 15px auto;
 }
+
+/* primo blocco  */
+.first-block{
+    width: 100%;
+    height: 35%;
+    background-color: yellowgreen;
+    margin: 15px auto;
+}
+ 
